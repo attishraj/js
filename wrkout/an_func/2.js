@@ -81,7 +81,8 @@ alert(globe);*/
 alert(person.getFullName()); */
 
 //arrays//
-var names=["Attish" ,"Raj"],
+
+/*var names=["Attish" ,"Raj"],
     names2=["hii" ,"hello"];
     var people=names.concat(names2);
     //alert(result);
@@ -90,4 +91,33 @@ var names=["Attish" ,"Raj"],
     var a=people.reverse();
     //alert(a);
     var b=people.sort();
-    alert(b);
+    alert(b); */
+
+    //loops 1//
+
+var names=["Attish","Raj","lucas","sam"];
+
+  for(var i=0, len=names.length;i<len;i++)
+{
+  var name=names[i];
+  alert(names) ;
+}
+alert("hfff");
+
+//loop 2//
+/*var names=["Attish","Raj","lucas","sam"];
+  for(var i=0,len=names.length;i<len;i++)
+{
+  var name=names[i];
+  alert(names) ;
+}
+alert("hello in new line");*/
+
+
+//while loop//
+/*var names=["Attish","Raj","lucas","sam"];
+while (true) {
+  alert(names) ;
+  }
+  alert("hello in new line");
+*/
