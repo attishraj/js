@@ -9,7 +9,7 @@
 }());*/
 
 //animation 2//
-(function() {
+/*(function() {
  var speed=500,
  i=0,
  example=function() {
@@ -21,4 +21,7 @@
 };
 setTimeout(example,speed);
  //alert("hello");
-}());
+}());*/
+
+
+//animation 3
